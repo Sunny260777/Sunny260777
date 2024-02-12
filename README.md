@@ -1,4 +1,4 @@
-# Hello World I'm Sunny Bhardwaj <img src="assets/Hello.gif" width="29px">
+# Hello World <img src="assets/World.gif" width="29px"> I'm Sunny Bhardwaj <img src="assets/Hello.gif" width="29px">
 
 ------------
 <h4>About me :</h4>
