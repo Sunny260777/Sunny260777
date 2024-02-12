@@ -8,7 +8,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=40% width=40% align="right">
 
 
-- 👨‍💻 **.NET Developer** at [GainWell](https://www.linkedin.com/company/gainwell-technologies/mycompany/).
+- 👨‍💻 **.NET Developer** at [Gainwell Technologies](https://www.linkedin.com/company/gainwell-technologies/mycompany/).
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on ASP.NET Core MVC
 - 👯 I’m looking to collaborate on .NET projects
