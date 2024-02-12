@@ -23,16 +23,13 @@
     <summary><b>📊 My Github Stats</b>:</summary><br>
     <div align="center" style="text-align:center">
         <a href="#">
-            <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=tarunrpmahar&show_icons=true&theme=tokyonight&count_private=true"
-                alt="tarun's Github stats">
+            <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Sunny260777&show_icons=true&theme=tokyonight&count_private=true"
+                alt="Sunny's Github stats">
         </a>
         <a href="#">
-            <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=tarunrpmahar&theme=tokyonight"
-                alt="tarun's Github commit streak"> <br>
+            <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Sunny260777&theme=tokyonight"
+                alt="Sunny's Github commit streak"> <br>
         </a>
-<!--         <a href="#">
-            <img width="49%"  src="https://metrics.lecoq.io/tarunrpmahar">
-        </a>  -->
     </div>
 </details> 👋
 
